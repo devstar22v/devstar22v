@@ -57,50 +57,6 @@ I am a dedicated and skilled Senior Full Stack Engineer with nearly 9 years of e
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4479A1?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAIGNIUk0AAHomAACAhAAA+gAAAIDoAAB1MAAA6mAAADqYAAAXcJy6UTwAAAFxUExURQAAAP///4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk4mPk////+05BsQAAAAdFJOUwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACaO/WIAAAABYktHRB5yCiArAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5wQcCzokRSj4WwAAAFpJREFUCNdjYGBgYGRiZmFlY+fg5OLm4eXjFxAUEhYRFROXkJSSlpGVk1dQVFJWUVVT19DU0tbR1dM3MDQyNjE1MzcHAgsLSytrG1s7ewdHJyYGZ2cXVzd3DwAfFQlqzXhSOQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNC0yOFQxMTo1ODozNiswMDowMIwNtBUAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDQtMjhUMTE6NTg6MzYrMDA6MDD9UAxpAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA0LTI4VDExOjU4OjM2KzAwOjAwqk0twwAAAABJRU5ErkJggg==&logoColor=white)
 
-## 📊 Recent Projects
-
-### Enterprise Resource Planning (ERP) System
-- **Tech Stack**: React, Tailwind CSS, Redux Toolkit, React Hook Form, React Query, AWS
-- **Description**: Developed a comprehensive ERP solution for business management with modules for inventory, HR, and finance.
-
-### E-Commerce Platform with Multi-Vendor Support
-- **Tech Stack**: Vue.js 3, Laravel, MySQL, Firebase
-- **Description**: Built a scalable multi-vendor platform with advanced analytics dashboard for affiliates.
-
-### AI-Powered Shipping Management System
-- **Tech Stack**: React, Flask, Firebase, GCP, OpenAI
-- **Description**: Created a document processing system that uses AI to extract and manage shipping information from PDF documents.
-
-### Educational Platform MVP
-- **Tech Stack**: Vue 3, Vuex, Vue Router, Keycloak
-- **Description**: Developed an MVP for an educational platform with secure authentication.
-
-### AI-Enhanced Business Intelligence SaaS
-- **Tech Stack**: Next.js, Supabase, OpenAI
-- **Description**: Built a serverless SaaS application that provides AI-powered business intelligence insights.
-
-## 📈 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=devstar22v&show_icons=true&theme=radical)](https://github.com/devstar22v)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devstar22v&layout=compact&theme=radical)](https://github.com/devstar22v)
-
-## 💼 Work Experience
-
-### Full Stack Engineer (Self-Employed | Contract)
-*March 2023 - Present*
-
-- Developed and deployed ERP system based on React, Tailwind CSS, Redux tool kits, React Hook Form, React Query and AWS.
-- Worked on E-Commerce project that provides sales, orders, delivery from various shops, comprehensive affiliate dashboard for analytics based on Vue3.js, Laravel, MySQL, Firebase.
-- Worked on AI-powered shipping management project that provides PDF documents processing functionality with OpenAI based on React, Flask, Firebase, GCP.
-- Built MVP project for Education platform based on Vue3, Vuex and Vue Router, and implemented authentication with Keycloak.
-- Implemented AI-powered SaaS application from scratch for a business intelligence company with serverless architecture based on Next.js, Supabase and OpenAI.
-- Built a partner relationship management system for a digital advertising company from scratch based on React, Express.js, MongoDB, Stripe payment.
-- Worked on IoT project that manage Cameras, sensors in the house based on Angular, rxjs, keycloak.
-- Refactored old E-commerce project from AngularJS to Angular15, resulting in improvements in performance over 30%.
-- Collaborated with cross-functional teams and suggested good solutions to improve project performance and reduce development duration.
-- Led a small technical team and reviewed junior developer's code quality and taught them with flexible communication.
-
 ## 🤝 Let's Connect
 
 I'm always interested in new opportunities and collaborations. Feel free to reach out!
